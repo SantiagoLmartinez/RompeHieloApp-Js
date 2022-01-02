@@ -80,3 +80,9 @@ background-color: blueviolet;
     }
     
 }
+@media (max-width: 500px) {
+    .container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+}
