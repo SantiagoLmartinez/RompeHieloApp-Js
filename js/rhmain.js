@@ -18,6 +18,16 @@ card17 = document.querySelector("#card17");
 card18 = document.querySelector("#card18");
 card19 = document.querySelector("#card19");
 card20 = document.querySelector("#card20");
+card21 = document.querySelector("#card21");
+card22 = document.querySelector("#card22");
+card23 = document.querySelector("#card23");
+card24 = document.querySelector("#card24");
+card25 = document.querySelector("#card25");
+card26 = document.querySelector("#card26");
+card27 = document.querySelector("#card27");
+card28 = document.querySelector("#card28");
+card29 = document.querySelector("#card29");
+card30 = document.querySelector("#card30");
 
 
 function question01(){
@@ -79,4 +89,16 @@ function question19(){
 }
 function question20(){
     card20.innerHTML = "¿Desayuno o merienda?"
+}
+function question21(){
+    card21.innerHTML = "¿Qué pelicula recomendas?"
+}
+function question22(){
+    card22.innerHTML = "¿Cuál fue tu primer empleo?"
+}
+function question23(){
+    card23.innerHTML = "¿Cuando llueve usas paraguas?"
+}
+function question24(){
+    card20.innerHTML = "Vale por una pregunta a quien elijas"
 }
