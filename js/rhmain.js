@@ -100,5 +100,5 @@ function question23(){
     card23.innerHTML = "¿Cuando llueve usas paraguas?"
 }
 function question24(){
-    card20.innerHTML = "Vale por una pregunta a quien elijas"
+    card24.innerHTML = "Vale por una pregunta a quien elijas"
 }
